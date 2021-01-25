@@ -1,0 +1,2 @@
+# Kruskal.c
+Kruskal Algorithm
